@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        /:year/:month/:day/:title/
+
+# Setup
+tagline:          'Entrepreneur public'
+baseurl:          /
+paginate:         500
+
+#SEO tag
+title:            Frédéric Bardolle
+description:      Innovation publique, éthique & IA
+url:              https://f14e.fr
+author:
+  name:           'Frédéric Bardolle'
+  twitter:        seiteta
+social:
+  name: Frédéric Bardolle
+  links:
+    - https://twitter.com/seiteta
+    - https://www.linkedin.com/in/fbardolle
+lang: fr
+
+plugins:
+  - jekyll-seo-tag
