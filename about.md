@@ -1,17 +1,6 @@
 ---
-layout: page_blog
+layout: page
 title: À propos
 ---
 
-### Bio
-
-Bonjour, je m'appelle Frédéric Bardolle. Je suis un geek qui essaie de travailler dans l'intérêt général.
-
-Depuis une dizaine d'année, je fais en sorte que la technologie soit utilisée au profit de la société, plutôt que contre elle.
-
-Mes deux dadas :
-
-* Innovation publique 💻🏛
-* Éthique & IA 🤔🤖
-
-J'ai commencé dans la recherche, en faisant une thèse pour améliorer la prédiction du débit des rivières. J'ai continué à faire de la science des données dans des startups, notamment dans l'éducation, et j'ai cofondé l'association [Data for Good](https://dataforgood.fr/). Et puis je suis rentré dans l'administration grâce au programme [Entrepreneur d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr), à la Cour des comptes, avant de passer par l'[Agence du numérique](https://agencedunumerique.gouv.fr/). Avec mon équipe, je construis maintenant des services publics numériques au sein du [ministère des Armées](https://beta.gouv.fr/incubateurs/fabnumdef.html).
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
