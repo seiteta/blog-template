@@ -13,25 +13,6 @@ title: Accueil
     </h1>
     {{ post.content }}
     <span class="post-date">{% include date-fr.html date=post.date %}</span>
-    <!-- {% include share-buttons.html %} -->
-    <!-- TODO: fix share buttons behaviour on the home page -->
   </div>
   {% endfor %}
 </div>
-
-<!-- <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Articles plus ancients</a>
-  {% else %}
-    <span class="pagination-item older">Articles plus ancients</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Articles plus récents</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Articles plus récents</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Articles plus récents</span>
-  {% endif %}
-</div> -->
